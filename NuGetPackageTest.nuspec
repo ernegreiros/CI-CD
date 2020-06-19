@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>NuGetPackageTestPackages</id>
+    <version>1.0.3</version>
+    <authors>EdvandroNegreiros</authors>
+    <description>Um projeto teste</description>
+	<dependencies>
+      <group targetFramework=".NETFramework4.8" />
+    </dependencies>
+  </metadata>
+</package>
