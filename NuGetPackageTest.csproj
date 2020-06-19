@@ -44,12 +44,5 @@
     <Compile Include="Calculation\Calculator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="ReadMe.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  <Pack>true</Pack>
-	  <PackagePath>\</PackagePath>
-    </Content>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
